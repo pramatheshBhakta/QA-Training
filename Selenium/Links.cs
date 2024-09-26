@@ -22,6 +22,8 @@ namespace NunitSeleniumTraining.Selenium
             foreach (IWebElement element in elements)
             {
                 Console.WriteLine(element.Text + " The URL is " + element.GetAttribute("href"));
+                Console.WriteLine(element.Text + " hi there i am here "));
+
             }
 
         }
