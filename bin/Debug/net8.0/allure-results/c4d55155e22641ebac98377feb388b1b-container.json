@@ -1,0 +1,12 @@
+{
+  "uuid": "1cc49ba4-5eda-425d-9e51-74ce01ddfd25",
+  "name": "NUnitSeleniumCsharp.NUnitTest.AllurereportGen.product",
+  "children": [
+    "5bbbd25d-e79f-46f6-8e60-8b9de07fed70"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726487810969,
+  "stop": 1726487810975
+}
