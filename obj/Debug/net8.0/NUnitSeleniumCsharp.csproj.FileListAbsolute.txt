@@ -18,6 +18,8 @@ C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\Allure.Net.Comm
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\Allure.NUnit.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\AngleSharp.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\EPPlus.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\EPPlus.Interfaces.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\EPPlus.System.Drawing.dll
@@ -49,6 +51,7 @@ C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\ICSharpCode.Sha
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\System.IO.Packaging.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\bin\Debug\net8.0\WebDriverManager.dll
@@ -127,6 +130,7 @@ C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSeleniumCs
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSeleniumCsharp.AssemblyInfoInputs.cache
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSeleniumCsharp.AssemblyInfo.cs
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSeleniumCsharp.csproj.CoreCompileInputs.cache
+C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSeleniumCsharp.sourcelink.json
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSel.AE7E28A7.Up2Date
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\NUnitSeleniumCsharp.dll
 C:\Users\prpbh\source\repos\NUnitSeleniumCsharp\obj\Debug\net8.0\refint\NUnitSeleniumCsharp.dll

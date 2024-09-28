@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,8 +16,8 @@ namespace NunitSeleniumTraining.Utility
             // Load Excel file
             using (var package = new ExcelPackage(new FileInfo(filePath)))
             {
-                //var worksheet = package.Workbook.Worksheets[sheetName];
-                //if (worksheet == null)
+                var worksheet = package.Workbook.Worksheets[sheetName];
+                if (worksheet == null)
                 {
                     throw new ArgumentException($"Sheet '{sheetName}' not found in the Excel file.");
                 }
@@ -57,4 +57,5 @@ namespace NunitSeleniumTraining.Utility
             return testData;
         }
     }
-}*/
+
+}

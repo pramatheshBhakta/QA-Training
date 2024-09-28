@@ -1,0 +1,52 @@
+{
+  "uuid": "bbe11c8e-96d6-4f6c-ab9a-723fdaa98aeb",
+  "historyId": "3762e5faba13622a2f607da7f4220d80",
+  "testCaseId": "0eb95aff51f42a62eb3bc1deb1dcca8a",
+  "fullName": "NUnitSeleniumCsharp:NUnitSeleniumCsharp.NUnitTest.Description.testCase()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOVEJGZNBRTJV"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCsharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testCase"
+    },
+    {
+      "name": "testClass",
+      "value": "Description"
+    }
+  ],
+  "links": [],
+  "name": "testCase",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This Test verifies the login functionality with  valid credentials\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1d6cc72e-6e98-4078-b076-d6289b32344d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419051322,
+  "stop": 1727419051324
+}
